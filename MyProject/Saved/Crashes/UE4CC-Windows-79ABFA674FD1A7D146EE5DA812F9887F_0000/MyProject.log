@@ -1,0 +1,1485 @@
+﻿Log file open, 12/09/18 19:17:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227888
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.087s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Sasteau -epicuserid=0457cb07c0a5451cabbe7392519fc6e5 -epiclocale=fr-FR
+LogInit: Base Directory: D:/Tout/Unreal Engine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.09-18.17.12:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:026][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:034][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.09-18.17.12:034][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.09-18.17.12:035][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.09-18.17.12:035][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-18.17.12:035][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-18.17.12:041][  0]LogHAL: Display: Platform has ~ 16 GB [17100894208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-18.17.12:041][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-18.17.12:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.09-18.17.12:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:041][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.09-18.17.12:042][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.09-18.17.12:042][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Boss/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.17.12:042][  0]LogInit: Computer: GASPARD
+[2018.12.09-18.17.12:042][  0]LogInit: User: Gaspard
+[2018.12.09-18.17.12:042][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.09-18.17.12:042][  0]LogInit: High frequency timer resolution =3.515620 MHz
+[2018.12.09-18.17.12:042][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.09-18.17.12:042][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-18.17.12:042][  0]LogMemory: Process Physical Memory: 103.05 MB used, 103.05 MB peak
+[2018.12.09-18.17.12:042][  0]LogMemory: Process Virtual Memory: 85.21 MB used, 85.21 MB peak
+[2018.12.09-18.17.12:042][  0]LogMemory: Physical Memory: 5357.84 MB used,  10950.85 MB free, 16308.68 MB total
+[2018.12.09-18.17.12:042][  0]LogMemory: Virtual Memory: 4637.89 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2018.12.09-18.17.12:056][  0]LogInit: Using OS detected language (fr-FR).
+[2018.12.09-18.17.12:056][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.12.09-18.17.12:057][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.12.09-18.17.12:058][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.12.09-18.17.12:058][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.09-18.17.12:086][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-18.17.12:086][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-18.17.12:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-18.17.12:229][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-18.17.12:293][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.09-18.17.12:293][  0]LogD3D11RHI:       8079/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.09-18.17.12:295][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.09-18.17.12:295][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.09-18.17.12:295][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.09-18.17.12:299][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-18.17.12:299][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-18.17.12:299][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-18.17.12:299][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.09-18.17.12:300][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.12.09-18.17.12:300][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.09-18.17.12:300][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.09-18.17.12:300][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.09-18.17.12:300][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.09-18.17.12:300][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2018.12.09-18.17.12:300][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2018.12.09-18.17.12:300][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.09-18.17.12:333][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-18.17.12:350][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.09-18.17.12:611][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-18.17.12:621][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-18.17.12:630][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-18.17.12:639][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-18.17.12:649][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-18.17.12:658][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-18.17.12:668][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-18.17.12:678][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-18.17.12:682][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.17.12:741][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-18.17.12:794][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-18.17.12:794][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-18.17.12:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-18.17.12:811][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-18.17.12:820][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-18.17.12:829][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-18.17.12:838][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-18.17.12:847][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-18.17.12:880][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-18.17.12:880][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-18.17.12:880][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-18.17.12:914][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (E:/Boss/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/4272/).
+[2018.12.09-18.17.12:914][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gaspard/AppData/Local/Temp/UnrealShaderWorkingDir/A537B3034E2083757BEDF880BA9E22B0/'.
+[2018.12.09-18.17.12:915][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-18.17.12:916][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-18.17.12:916][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-18.17.13:319][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-18.17.13:362][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Gaspard/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-18.17.13:362][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gaspard/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.09-18.17.13:362][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Boss/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-18.17.13:362][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-18.17.13:362][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Boss/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-18.17.13:362][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-18.17.13:373][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-18.17.13:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-18.17.13:373][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.09-18.17.13:386][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gaspard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-18.17.13:386][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-18.17.13:386][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-18.17.13:403][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-18.17.13:404][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-18.17.13:404][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-18.17.13:482][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2018.12.09-18.17.13:715][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-18.17.13:826][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-18.17.13:829][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-18.17.13:829][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-18.17.13:829][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-18.17.13:829][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-18.17.13:842][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2018.12.09-18.17.14:228][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.074158 seconds
+[2018.12.09-18.17.14:233][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.09-18.17.14:233][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.09-18.17.14:233][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-18.17.14:898][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.09-18.17.14:910][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.09-18.17.15:461][  0]SourceControl: Source control is disabled
+[2018.12.09-18.17.15:461][  0]SourceControl: Source control is disabled
+[2018.12.09-18.17.15:462][  0]SourceControl: Source control is disabled
+[2018.12.09-18.17.15:463][  0]SourceControl: Source control is disabled
+[2018.12.09-18.17.15:609][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.09-18.17.15:680][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-18.17.15:797][  0]LogEngine: Initializing Engine...
+[2018.12.09-18.17.15:798][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-18.17.15:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-18.17.15:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-18.17.15:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-18.17.15:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-18.17.15:978][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-18.17.15:986][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-18.17.16:005][  0]LogInit: XAudio2 using 'Casque (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.09-18.17.16:015][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-18.17.16:016][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-18.17.16:083][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Gaspard/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-18.17.16:090][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-18.17.16:103][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-18.17.16:111][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-18.17.16:123][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-18.17.16:166][  0]LocalizationService: Localization service is disabled
+[2018.12.09-18.17.16:485][  0]LogFileCache: Scanning file cache for directory 'E:/Boss/Unreal Projects/MyProject/Content/' took 0.01s
+[2018.12.09-18.17.16:485][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-18.17.16:485][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-18.17.16:485][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-18.17.16:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-18.17.16:485][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-18.17.16:486][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-18.17.16:486][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-18.17.16:564][  0]SourceControl: Source control is disabled
+[2018.12.09-18.17.16:564][  0]Cmd: MAP LOAD FILE="E:/Boss/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-18.17.16:564][  0]LightingResults: New page: Lighting Build
+[2018.12.09-18.17.16:566][  0]MapCheck: New page: Map Check
+[2018.12.09-18.17.16:566][  0]LightingResults: New page: Lighting Build
+[2018.12.09-18.17.16:724][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.09-18.17.16:729][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-18.17.16:750][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-18.17.16:750][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,08ms to complete.
+[2018.12.09-18.17.16:750][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.186
+[2018.12.09-18.17.16:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.17.16:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.17.16:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.17.16:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.17.16:854][  0]LogCollectionManager: Loaded 0 collections in 0.000809 seconds
+[2018.12.09-18.17.16:890][  0]LogFileCache: Scanning file cache for directory 'E:/Boss/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2018.12.09-18.17.16:890][  0]LogFileCache: Scanning file cache for directory 'E:/Boss/Unreal Projects/MyProject/Content/Developers/Gaspard/Collections/' took 0.01s
+[2018.12.09-18.17.16:890][  0]LogFileCache: Scanning file cache for directory 'E:/Boss/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2018.12.09-18.17.16:890][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.09-18.17.16:897][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2651 classes and 620 folders.
+[2018.12.09-18.17.16:900][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.09-18.17.16:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.17.16:935][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-18.17.16:938][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.09-18.17.16:949][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-18.17.16:951][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-18.17.16:954][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-18.17.17:014][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-18.17.17:105][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.09-18.17.17:105][  0]LogLoad: (Engine Initialization) Total time: 6.33 seconds
+[2018.12.09-18.17.17:105][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-18.17.17:115][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.09-18.17.17:160][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.09-18.17.17:171][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-18.17.17:186][  1]LogAssetRegistry: Asset discovery search completed in 3.7261 seconds
+[2018.12.09-18.17.17:187][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.09-18.17.17:187][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.12.09-18.17.18:180][111]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-18.17.18:181][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.17.18:185][111]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_kaya.BP_kaya
+[2018.12.09-18.17.18:556][111]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2018.12.09-18.17.19:104][111]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/Anim_kaya.Anim_kaya
+[2018.12.09-18.17.19:113][111]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.09-18.17.19:268][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.09-18.17.19:269][111]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:270][111]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.09-18.17.19:462][111]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.09-18.17.19:628][111]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:650][111]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.09-18.17.19:724][111]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.09-18.17.19:749][111]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.09-18.17.19:759][112]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:767][112]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:770][112]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-18.17.19:793][113]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:808][114]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:818][115]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:827][116]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:835][117]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:847][118]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:856][119]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:864][120]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:873][121]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:881][122]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:889][123]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:898][124]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:906][125]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:915][126]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:923][127]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:932][128]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:940][129]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:949][130]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:957][131]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:965][132]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:976][133]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:984][134]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.19:993][135]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:001][136]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:010][137]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:018][138]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:026][139]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:035][140]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:043][141]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:050][142]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:058][143]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:067][144]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:075][145]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:084][146]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:092][147]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:100][148]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:109][149]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:118][150]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:126][151]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:134][152]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:143][153]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:151][154]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:159][155]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:168][156]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:176][157]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:184][158]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:193][159]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:201][160]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:209][161]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:218][162]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:225][163]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:234][164]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:242][165]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:250][166]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:259][167]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:267][168]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:276][169]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:284][170]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:293][171]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:301][172]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:309][173]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:318][174]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:326][175]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:334][176]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:343][177]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:351][178]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:360][179]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:368][180]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:376][181]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:385][182]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:393][183]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:402][184]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:410][185]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:417][186]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:425][187]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:434][188]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:443][189]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:451][190]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:459][191]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:468][192]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:476][193]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:484][194]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:493][195]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:501][196]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:509][197]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:518][198]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:526][199]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:535][200]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:543][201]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:552][202]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:560][203]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:568][204]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:576][205]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:584][206]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:593][207]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:601][208]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:609][209]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:617][210]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:626][211]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:634][212]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:642][213]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:651][214]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:659][215]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:667][216]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:676][217]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:684][218]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:693][219]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:701][220]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:709][221]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:718][222]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:726][223]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:735][224]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:743][225]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:751][226]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:760][227]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:768][228]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:776][229]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:785][230]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:793][231]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:801][232]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:810][233]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:818][234]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:827][235]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:835][236]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:843][237]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:851][238]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:860][239]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:868][240]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:876][241]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:885][242]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:894][243]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:904][244]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:913][245]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:921][246]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:929][247]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:938][248]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:946][249]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:954][250]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:963][251]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:971][252]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:979][253]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:988][254]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.20:996][255]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:005][256]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:013][257]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:022][258]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:030][259]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:037][260]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:046][261]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:054][262]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:063][263]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:072][264]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:080][265]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:088][266]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:097][267]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:104][268]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:113][269]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:121][270]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:130][271]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:138][272]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:147][273]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:155][274]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:163][275]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:171][276]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:180][277]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:188][278]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:197][279]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:204][280]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:213][281]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:222][282]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:231][283]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:239][284]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:248][285]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:257][286]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:265][287]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:275][288]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:283][289]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:292][290]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:301][291]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:309][292]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:317][293]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:325][294]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:334][295]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:343][296]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:351][297]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:359][298]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:368][299]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:376][300]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:385][301]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:393][302]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:402][303]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:410][304]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:417][305]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:426][306]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:434][307]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:443][308]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:451][309]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:460][310]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:468][311]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:476][312]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:484][313]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:493][314]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:501][315]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:509][316]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:517][317]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:526][318]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:535][319]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:543][320]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:551][321]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:559][322]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:568][323]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:576][324]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:584][325]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:593][326]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:601][327]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:610][328]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:619][329]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:629][330]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:637][331]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:646][332]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:654][333]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:663][334]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:674][335]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:687][336]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:697][337]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:706][338]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:716][339]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:725][340]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:735][341]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:748][342]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:757][343]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:766][344]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:776][345]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:785][346]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:792][347]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:801][348]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:809][349]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:819][350]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:828][351]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:836][352]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:844][353]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:852][354]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:860][355]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:868][356]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:877][357]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:885][358]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:893][359]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:901][360]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:910][361]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:918][362]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:927][363]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:935][364]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:943][365]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:952][366]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:960][367]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:968][368]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:977][369]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:985][370]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.21:994][371]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:002][372]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:010][373]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:020][374]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:028][375]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:036][376]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:045][377]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:054][378]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:063][379]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:072][380]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:081][381]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:089][382]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:097][383]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:106][384]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:114][385]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:124][386]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:132][387]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:142][388]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:151][389]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:159][390]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:167][391]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:176][392]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:184][393]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:191][394]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:200][395]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:208][396]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:216][397]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:225][398]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:233][399]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:241][400]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:250][401]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:258][402]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:266][403]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:275][404]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:283][405]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:292][406]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:300][407]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:308][408]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:316][409]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:324][410]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:333][411]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:341][412]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:349][413]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:358][414]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:366][415]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:375][416]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:384][417]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:391][418]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:399][419]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:408][420]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:416][421]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:425][422]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:433][423]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:441][424]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:450][425]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:458][426]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:466][427]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:481][428]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:519][429]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:528][430]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:568][431]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:608][432]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:616][433]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:625][434]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:633][435]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:641][436]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:650][437]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:658][438]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:666][439]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:674][440]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:682][441]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:690][442]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:699][443]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:707][444]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:716][445]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:724][446]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:733][447]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:741][448]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:749][449]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:757][450]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:766][451]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:774][452]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:782][453]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:791][454]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:799][455]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:807][456]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:821][457]LogSlate: Window 'Anim_kaya' being destroyed
+[2018.12.09-18.17.22:824][457]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:863][458]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:869][459]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:879][460]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:887][461]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:895][462]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:904][463]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:912][464]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:921][465]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:929][466]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:939][467]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:947][468]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:954][469]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:964][470]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:973][471]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:983][472]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:990][473]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.22:999][474]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:007][475]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:017][476]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:024][477]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:032][478]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:040][479]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:049][480]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:059][481]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:068][482]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:076][483]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:084][484]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:093][485]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:100][486]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:109][487]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:119][488]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:125][489]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:134][490]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:142][491]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:150][492]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:159][493]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:168][494]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:176][495]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:184][496]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:194][497]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:201][498]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:210][499]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:218][500]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:226][501]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:234][502]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:242][503]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:250][504]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:259][505]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:268][506]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:276][507]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:285][508]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:293][509]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:301][510]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:310][511]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:318][512]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:327][513]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:335][514]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:343][515]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:350][516]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:359][517]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:367][518]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:376][519]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:384][520]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:392][521]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:401][522]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:409][523]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:417][524]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:425][525]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:434][526]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:442][527]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:450][528]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:459][529]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:467][530]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:476][531]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:484][532]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:492][533]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:501][534]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:509][535]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:517][536]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:526][537]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:534][538]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:542][539]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:551][540]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:559][541]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:566][542]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:575][543]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:583][544]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:591][545]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:600][546]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:608][547]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:616][548]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:625][549]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:633][550]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:642][551]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:650][552]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:658][553]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:667][554]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:675][555]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:684][556]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:692][557]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:700][558]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:708][559]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:717][560]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:727][561]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:734][562]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:746][563]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:780][564]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:816][565]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:825][566]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:833][567]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:841][568]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:850][569]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:857][570]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:866][571]LogSlate: Window 'Anim_kaya' being destroyed
+[2018.12.09-18.17.23:868][571]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:874][572]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:883][573]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:891][574]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:899][575]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:908][576]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:916][577]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:924][578]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:933][579]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:941][580]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:949][581]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:958][582]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:966][583]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:974][584]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:983][585]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:992][586]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.23:999][587]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:008][588]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:017][589]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:025][590]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:033][591]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:042][592]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:050][593]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:058][594]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:066][595]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:075][596]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:083][597]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:091][598]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:100][599]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:109][600]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:117][601]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:126][602]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:134][603]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:142][604]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:151][605]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:158][606]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:167][607]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:175][608]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:183][609]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:192][610]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:200][611]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:208][612]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:217][613]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:225][614]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:233][615]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:242][616]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:250][617]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:258][618]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:267][619]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:276][620]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:283][621]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:292][622]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:300][623]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:308][624]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:317][625]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:325][626]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:333][627]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:342][628]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:350][629]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:359][630]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:367][631]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:375][632]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:384][633]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:392][634]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:400][635]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:408][636]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:417][637]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:425][638]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:433][639]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:442][640]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:450][641]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:458][642]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:467][643]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:475][644]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:483][645]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:492][646]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:500][647]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:508][648]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:517][649]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:525][650]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:533][651]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:542][652]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:550][653]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:558][654]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:567][655]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:575][656]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:583][657]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:592][658]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:600][659]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:608][660]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:617][661]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:625][662]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:634][663]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:642][664]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:650][665]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:658][666]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:666][667]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:675][668]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:683][669]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:692][670]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:700][671]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:709][672]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:717][673]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:725][674]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:733][675]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:742][676]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:750][677]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:758][678]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:767][679]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:775][680]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:783][681]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:791][682]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:800][683]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:809][684]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:817][685]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:825][686]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:834][687]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:842][688]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:851][689]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:859][690]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:868][691]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:876][692]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:883][693]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:891][694]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:899][695]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:908][696]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:917][697]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:925][698]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:933][699]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:942][700]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:950][701]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:958][702]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:967][703]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:975][704]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:984][705]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.24:992][706]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:000][707]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:009][708]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:018][709]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:025][710]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:034][711]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:042][712]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:050][713]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:059][714]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:067][715]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:076][716]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:083][717]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:091][718]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:100][719]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:109][720]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:116][721]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:124][722]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:133][723]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:141][724]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:150][725]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:158][726]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:166][727]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:175][728]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:183][729]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:191][730]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:200][731]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:209][732]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:217][733]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:225][734]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:234][735]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:242][736]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:250][737]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:259][738]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:267][739]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:275][740]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:283][741]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:291][742]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:300][743]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:309][744]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:317][745]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:325][746]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:333][747]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:342][748]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:351][749]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:358][750]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:367][751]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:375][752]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:383][753]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:392][754]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:401][755]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:409][756]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:417][757]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:425][758]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:434][759]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:441][760]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:450][761]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:458][762]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:466][763]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:475][764]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:483][765]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:492][766]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:500][767]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:508][768]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:517][769]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:525][770]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:533][771]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:541][772]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:550][773]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:558][774]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:566][775]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:575][776]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:584][777]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:592][778]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:600][779]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:609][780]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:617][781]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:625][782]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:634][783]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:641][784]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:649][785]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:658][786]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:666][787]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:675][788]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:683][789]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:691][790]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:700][791]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:708][792]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:717][793]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:725][794]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:733][795]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:742][796]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:750][797]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:758][798]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:767][799]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:775][800]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:784][801]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:791][802]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:800][803]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:808][804]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:816][805]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:825][806]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:834][807]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:842][808]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:850][809]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:858][810]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:866][811]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:875][812]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:883][813]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:891][814]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:900][815]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:909][816]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:917][817]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:925][818]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:934][819]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:942][820]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:950][821]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:959][822]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:967][823]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:975][824]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:984][825]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.25:992][826]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:000][827]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:008][828]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:017][829]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:026][830]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:034][831]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:042][832]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:051][833]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:059][834]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:068][835]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:076][836]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:084][837]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:092][838]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:101][839]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:109][840]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:117][841]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:126][842]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:133][843]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:142][844]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:149][845]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:159][846]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:167][847]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:175][848]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:184][849]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:192][850]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:200][851]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:209][852]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:217][853]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:225][854]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:234][855]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:242][856]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:251][857]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:259][858]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:267][859]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.26:274][860]LogBlueprintUserMessages: [Anim_kaya_C_0] Error
+[2018.12.09-18.17.27:483][  1]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-18.17.36:621][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-18.17.36:629][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.17.36:629][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-18.17.36:630][ 91]PIE: New page: PIE session: ThirdPersonExampleMap (9 déc. 2018 20:17:36)
+[2018.12.09-18.17.36:642][ 91]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.09-18.17.36:657][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014700s)
+[2018.12.09-18.17.36:657][ 91]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.09-18.17.36:657][ 91]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2018.12.09-18.17.36:657][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015403s)
+[2018.12.09-18.17.36:699][ 91]LogInit: XAudio2 using 'Casque (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.09-18.17.36:707][ 91]LogInit: FAudioDevice initialized.
+[2018.12.09-18.17.36:756][ 91]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.09-18.17.36:757][ 91]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.09-19.17.36
+[2018.12.09-18.17.36:757][ 91]LogWorld: Bringing up level for play took: 0.000676
+[2018.12.09-18.17.36:772][ 91]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.09-18.17.36:773][ 91]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,113
+[2018.12.09-18.17.36:773][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.17.41:942][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.17.41:942][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.17.41:971][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-18.17.41:971][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.17.41:995][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.17.42:043][714]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.09-18.17.48:440][238]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2018.12.09-18.17.48:440][238]LogTemp: CWD: D:\Tout\Unreal Engine\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-18.17.48:440][238]LogTemp: Initial Dir: D:\Tout\Unreal Engine\UE_4.21
+[2018.12.09-18.17.48:440][238]LogTemp: Env CWD: D:\Tout\Unreal Engine\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-18.17.48:440][238]LogTemp: BranchPath = GASPARD/D/Tout/Unreal Engine/UE_4.21/Engine/Binaries --- GameBranchPath = GASPARD/D/Tout/Unreal Engine/UE_4.21/Engine/Binaries
+[2018.12.09-18.17.48:440][238]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.09-18.17.48:526][238]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Gaspard\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.09-18.17.53:695][840]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.09-18.21.00:810][203]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_kaya.BP_kaya
+[2018.12.09-18.29.05:147][976]BlueprintLog: New page: Compile BP_kaya
+[2018.12.09-18.29.05:837][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_kaya" FILE="E:/Boss/Unreal Projects/MyProject/Content/Character/BP_kaya.uasset" SILENT=true
+[2018.12.09-18.29.05:856][ 38]LogSavePackage: Moving 'E:/Boss/Unreal Projects/MyProject/Saved/BP_kaya33A7918A48DD5C1254A939A07D72E8B4.tmp' to 'E:/Boss/Unreal Projects/MyProject/Content/Character/BP_kaya.uasset'
+[2018.12.09-18.29.09:843][515]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-18.29.09:854][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.29.09:854][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-18.29.09:854][515]PIE: New page: PIE session: ThirdPersonExampleMap (9 déc. 2018 20:29:09)
+[2018.12.09-18.29.09:854][515]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.09-18.29.09:863][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009752s)
+[2018.12.09-18.29.09:863][515]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.09-18.29.09:863][515]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.12.09-18.29.09:863][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010422s)
+[2018.12.09-18.29.09:903][515]LogInit: XAudio2 using 'Casque (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.09-18.29.09:912][515]LogInit: FAudioDevice initialized.
+[2018.12.09-18.29.09:945][515]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.09-18.29.09:946][515]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.09-19.29.09
+[2018.12.09-18.29.09:946][515]LogWorld: Bringing up level for play took: 0.000668
+[2018.12.09-18.29.09:960][515]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,3
+[2018.12.09-18.29.09:960][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.29.24:689][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.29.24:689][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.29.24:725][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-18.29.24:725][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.29.24:750][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.29.24:790][281]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.09-18.29.26:166][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.31.27:106][248]BlueprintLog: New page: Compile BP_kaya
+[2018.12.09-18.31.27:876][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_kaya" FILE="E:/Boss/Unreal Projects/MyProject/Content/Character/BP_kaya.uasset" SILENT=true
+[2018.12.09-18.31.27:896][320]LogSavePackage: Moving 'E:/Boss/Unreal Projects/MyProject/Saved/BP_kayaC5CBA058439EA5C3B7634E8BA310C96C.tmp' to 'E:/Boss/Unreal Projects/MyProject/Content/Character/BP_kaya.uasset'
+[2018.12.09-18.31.29:585][521]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-18.31.29:594][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.31.29:594][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-18.31.29:594][521]PIE: New page: PIE session: ThirdPersonExampleMap (9 déc. 2018 20:31:29)
+[2018.12.09-18.31.29:594][521]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.09-18.31.29:603][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009502s)
+[2018.12.09-18.31.29:604][521]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.09-18.31.29:604][521]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.12.09-18.31.29:604][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010375s)
+[2018.12.09-18.31.29:641][521]LogInit: XAudio2 using 'Casque (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.09-18.31.29:650][521]LogInit: FAudioDevice initialized.
+[2018.12.09-18.31.29:655][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.31.29:687][521]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.09-18.31.29:688][521]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.09-19.31.29
+[2018.12.09-18.31.29:688][521]LogWorld: Bringing up level for play took: 0.000812
+[2018.12.09-18.31.29:703][521]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,042
+[2018.12.09-18.31.29:703][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.31.29:729][521]LogRenderer: Reallocating scene render targets to support 1292x900 Format 10 NumSamples 1 (Frame:1).
+[2018.12.09-18.31.49:784][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.31.49:784][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.31.49:792][914]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.09-18.31.49:826][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-18.31.49:826][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.09-18.31.49:884][917]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.09-18.32.14:865][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.34.20:000][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.34.28:726][679]LogEditorTransaction: Undo Set Location
+[2018.12.09-18.34.29:003][679]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_10:PersistentLevel.BP_kaya_C_0.CollisionCylinder) Component already registered.
+[2018.12.09-18.34.29:004][679]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_10:PersistentLevel.BP_kaya_C_0.CharacterMesh0) Component already registered.
+[2018.12.09-18.34.29:008][679]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.09-18.34.30:769][679]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.761 s
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: 
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: 
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: Stack: 
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6d89996 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6d2f8ba UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb06cfa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb06d0795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb067d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc34dfe72 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc34a4809 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc354c40e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc3359ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc32f0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5fa8444 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5d0b7cf UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5ce0299 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb60acd43 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb608ec40 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6038744 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6095baa UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5cbef3b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5cf16ee UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5d12c2d UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6d2feed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:769][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6d5ac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6d4131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6dab337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6def63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb6d8717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb5ce0fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc32f206f UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc3334c8e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb7606bee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcb75f4b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc32b694c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc333697c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcc3329a36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcfc46daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcfc460de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcfc4701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcfc45ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffd0bfd6d41 USER32.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffd0bfd6713 USER32.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffcfc471746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ff7338e5546 UE4Editor.exe!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ff7338f596c UE4Editor.exe!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ff7338f59ea UE4Editor.exe!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ff7339048da UE4Editor.exe!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ff73390659a UE4Editor.exe!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffd0ba13034 KERNEL32.DLL!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: [Callstack] 0x00007ffd0e0a1471 ntdll.dll!UnknownFunction []
+[2018.12.09-18.34.30:770][679]LogOutputDevice: Error: 
+[2018.12.09-18.34.30:772][679]LogStats:                SubmitErrorReport -  0.000 s
